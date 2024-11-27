@@ -1,0 +1,75 @@
+{
+    "Wed 11 Dec": {
+      "West Ballroom A-D": [
+        {
+          "title": "The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models",
+          "authors": "Hannah Rose Kirk, Alexander Whitefield, Paul Rottger, Andrew M. Bean, Katerina Margatina, Rafael Mosquera-Gomez, Juan Ciro, Max Bartolo, Adina Williams, He He, Bertie Vidgen, Scott Hale",
+          "abstract": "PRISM dataset maps sociodemographics and preferences of 1500 participants to their feedback on 21 LLMs, exploring subjective and multicultural alignment on value-laden issues."
+        },
+         {
+          "title": "Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation",
+          "authors": "Sahar Abdelnabi, Amr Gomaa, Sarath Sivaprasad, Lea Schönherr, Mario Fritz",
+          "abstract": "Proposes negotiation games to evaluate LLM communication and decision-making in multi-agent setups, focusing on cooperation, competition, and manipulation."
+        },
+        {
+          "title": "Drift-Resilient TabPFN: In-Context Learning Temporal Distribution Shifts on Tabular Data",
+          "authors": "Kai Helli, David Schnurr, Noah Hollmann, Samuel Müller, Frank Hutter",
+          "abstract": "Introduces Drift-Resilient TabPFN, using in-context learning with a prior-data fitted network to address temporal distribution shifts in tabular data."
+        },
+        {
+          "title": "Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation",
+          "authors": "Nachiket Kotalwar, Alkis Gotovos, Adish Singla",
+          "abstract": "Benchmarks LLM-based programming feedback generation, focusing on quality, cost, time, and privacy, leveraging in-browser inference."
+        },
+        {
+          "title": "DetectEval: Benchmarking LLM-Generated Text Detection in Real-World Scenarios",
+          "authors": "Junchao Wu, Runzhe Zhan, Derek Wong, Shu Yang, Xinyi Yang, Yulin Yuan, Lidia Chao",
+          "abstract": "Presents DetectEval, a benchmark for evaluating LLM-generated text detection in real-world scenarios, including adversarial examples and human revisions."
+        },
+        {
+          "title": "DivSafe: Evaluating the Generalization of LLM Safety Training Across Diverse Tasks and Prompt Types",
+          "authors": "Yutao Mou, Shikun Zhang, Wei Ye",
+          "abstract": "Introduces DivSafe, a benchmark for evaluating LLM safety training generalization across diverse tasks and prompt types, including prompt engineering effects."
+        },
+        {
+          "title": "SciInstruct: a Self-Reflective Instruction Annotated Dataset for Training Scientific Language Models",
+          "authors": "Dan Zhang, Ziniu Hu, Sining Zhoubian, Zhengxiao Du, Kaiyu Yang, Zihan Wang, Yisong Yue, Yuxiao Dong, Jie Tang",
+          "abstract": "Presents SciInstruct, a dataset of scientific instructions for training LLMs in scientific reasoning, using a self-reflective annotation framework."
+        },
+        {
+          "title": "BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack",
+          "authors": "Yury Kuratov, Aydar Bulatov, Petr Anokhin, Ivan Rodkin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev",
+          "abstract": "Introduces BABILong, a benchmark for testing LLM reasoning across facts in extremely long documents, including various reasoning tasks."
+        },
+        {
+          "title": "RedPajama: an Open Dataset for Training Large Language Models",
+          "authors": "Maurice Weber, Dan Fu, Quentin Anthony, Yonatan Oren, Shane Adams, Anton Alexandrov, Xiaozhong Lyu, Huu Nguyen, Xiaozhe Yao, Virginia Adams, Ben Athiwaratkun, Rahul Chalamala, Kezhen Chen, Max Ryabinin, Tri Dao, Percy Liang, Christopher Ré, Irina Rish, Ce Zhang",
+          "abstract": "Releases RedPajama-V1 and RedPajama-V2, open datasets for training LLMs, addressing transparency, data access, and metadata availability."
+        },
+        {
+          "title": "HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models",
+          "authors": "Rhea Sukthanker, Arber Zela, Benedikt Staffler, Aaron Klein, Lennart Purucker, Jörg Franke, Frank Hutter",
+          "abstract": "Introduces HW-GPT-Bench, a hardware-aware benchmark for evaluating LLM architectures across multiple hardware metrics using surrogate predictions."
+        },
+        {
+          "title": "FinBen: An Holistic Financial Benchmark for Large Language Models",
+          "authors": "Qianqian Xie, Weiguang Han, Zhengyu Chen, Ruoyu Xiang, Xiao Zhang, Yueru He, Mengxi Xiao, Dong Li, Yongfu Dai, Duanyu Feng, Yijing Xu, Haoqiang Kang, Ziyan Kuang, Chenhan Yuan, Kailai Yang, Zheheng Luo, Tianlin Zhang, Zhiwei Liu, GUOJUN XIONG, Zhiyang Deng, Yuechen Jiang, Zhiyuan Yao, Haohang Li, Yangyang Yu, Gang Hu, Huang Jiajia, Xiaoyang Liu, Alejandro Lopez-Lira, Benyou Wang, Yanzhao Lai, Hao Wang, Min Peng, Sophia Ananiadou, Jimin Huang",
+          "abstract": "Introduces FinBen, a benchmark for evaluating LLMs in finance, covering 24 tasks and including novel agent and RAG evaluations."
+        },
+        {
+          "title": "A Nearly Optimal and Low-Switching Algorithm for Reinforcement Learning with General Function Approximation",
+          "authors": "Heyang Zhao, Jiafan He, Quanquan Gu",
+          "abstract": "Presents MQL-UCB, a near-optimal and low-switching algorithm for RL with general function approximation, achieving minimax optimal regret."
+        }
+      ],
+      "East Exhibit Hall A-C": [
+        {
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "authors": "John Yang, Carlos Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press",
+          "abstract": "Introduces SWE-agent, a system enabling language model agents to use computers for software engineering tasks, achieving state-of-the-art performance."
+        }
+      ],
+      "location": "Vancouver Convention Centre",
+      "time": "11 a.m. PST — 2 p.m. PST"
+    }
+  }
